@@ -3,3 +3,5 @@ mkdocs
 mkdocstrings[python]
 mkdocs-material
 mkdocs-monorepo-plugin
+./recurtools
+./pytest-doctest-mkdocstrings
