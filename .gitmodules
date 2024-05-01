@@ -1,0 +1,8 @@
+[submodule "recurtools"]
+	path = recurtools
+	url = https://github.com/MusicalNinjaDad/recurtools.git
+	branch = main
+[submodule "pytest-doctest-mkdocstrings"]
+	path = pytest-doctest-mkdocstrings
+	url = https://github.com/MusicalNinjaDad/pytest-doctest-mkdocstrings.git
+	branch = main
