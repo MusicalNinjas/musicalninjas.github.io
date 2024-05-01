@@ -7,7 +7,7 @@ watch:
 theme:
   name: "material"
   icon:
-    logo: fontawesome/solid/diagram-next
+    logo: material/ninja
   palette: # Palette toggles for auto-light-dark mode
   - media: "(prefers-color-scheme)"
     toggle:
